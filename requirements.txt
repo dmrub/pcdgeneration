@@ -1,0 +1,9 @@
+cardinality==0.1.1
+plyfile==0.7.2
+pydot-ng==2.0.0
+scikit-learn==1.1.2
+tensorflow-addons==0.17.1
+tensorboard-plugin-profile==2.8.0
+volumentations-3D==1.0.3
+matplotlib==3.4.1
+tensorflow-probability==0.17.0
